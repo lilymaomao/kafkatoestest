@@ -1,6 +1,4 @@
-
-
-≤‚ ‘git≤÷ø‚repository
+git is a controller
 
 
 testing git repository
